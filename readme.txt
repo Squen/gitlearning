@@ -3,6 +3,4 @@ Git is free for everyone.
 Git is essential.
 Git is vital.
 Git is important.
-A add
-a add
-adddddd
+愚蠢的土拨鼠
